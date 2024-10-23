@@ -1,0 +1,5 @@
+root: ./
+
+redirects:
+  platform-docs/cust: cust/cust.md
+  platform-docs/start: start/start.md
